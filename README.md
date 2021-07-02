@@ -1,5 +1,6 @@
 App React
 
-Consumiendo Api de heroes
 
-Usando routers para VISTAS CON LOGIN
+Usando routers para VISTAS CON LOGIN (Public y private router) 
+Manteniendo sesion (local storage,Context y reducer)
+
