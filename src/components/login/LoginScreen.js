@@ -14,7 +14,7 @@ export const LoginScreen = ({history}) => {
         const action = {
             type : types.login,
             payload : {
-                name:'Fernando',
+                name:'Juan',
                 
             }
         }
